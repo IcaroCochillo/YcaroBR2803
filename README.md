@@ -4,8 +4,12 @@
 
 <br>
 <br>
+<div style="pading-left=30px">
 
-![YcaroBR2803 GitHub stats](https://github-readme-stats.vercel.app/api?username=YcaroBR2803&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YcaroBR2803)](https://github.com/YcaroBR2803/github-readme-stats)
+
+
+![YcaroBR2803 GitHub stats](https://github-readme-stats.vercel.app/api?username=YcaroBR2803&show_icons=true&theme=dark) </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YcaroBR2803)](https://github.com/YcaroBR2803/github-readme-stats)
  
 
 <br>
