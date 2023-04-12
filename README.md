@@ -3,17 +3,11 @@
 ## Fala fiote, quem vos fala é Ícazin Rei Delas 👑
 
 <br>
-<br>
 <div style="pading-left=100px">
-
-
 
 ![YcaroBR2803 GitHub stats](https://github-readme-stats.vercel.app/api?username=YcaroBR2803&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YcaroBR2803)](https://github.com/YcaroBR2803/github-readme-stats)
  
  </div>
-
-
-
 
 ### Redes sociais
 
@@ -21,15 +15,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro_cochillo/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3155gxrphdkfei3brqq4cywyahme)
 
-
-
-
 ### Contato profissional
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnppCMTRGpMCcvztqXqMLNlXZsdCTVPGNjfzfnnmSxXHpddBLhdZStwWVdKhPnFhmCwhL)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ícaro-fernandes-592b65264/)
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Key-Map5186)
-
-
 
 ### Especialidades
 
@@ -45,9 +34,7 @@
 
 </div>
 
-
 ### Games
-
 
 <img alt="Battle.net" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">
 <img alt="Epic" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white">
