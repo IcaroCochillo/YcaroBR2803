@@ -60,7 +60,7 @@
 <img alt="ps" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 
 [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199192793442/)
-
+<br>
 [![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=HvPqkh01zMQVOP0P04zzZ3jcbckfgSCzj-AgQJdye_Rt8BTYysI-FnU2OrlrEo1-UKpALaLA0-_dliuJ3jaJYsqOxwE1&wa=wsignin1.0)
 
 
