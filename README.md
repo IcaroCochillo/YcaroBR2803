@@ -12,7 +12,7 @@
  
  </div>
 
-<br>
+
 
 
 ### Redes sociais
@@ -21,7 +21,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro_cochillo/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3155gxrphdkfei3brqq4cywyahme)
 
-<br>
+
 
 
 ### Contato profissional
@@ -30,7 +30,6 @@
 [![REDDIT](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Key-Map5186)
 
 
-<br>
 
 ### Especialidades
 
@@ -46,10 +45,6 @@
 
 </div>
 
-
-
-
-<br>
 
 ### Games
 
