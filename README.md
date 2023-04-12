@@ -17,7 +17,7 @@
 
 ### Redes sociais
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/store/YcaroBR2803#2754)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro_cochillo/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3155gxrphdkfei3brqq4cywyahme)
 
@@ -60,6 +60,7 @@
 <img alt="ps" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 
 [![STEAM](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199192793442/)
+
 [![XBOX](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=HvPqkh01zMQVOP0P04zzZ3jcbckfgSCzj-AgQJdye_Rt8BTYysI-FnU2OrlrEo1-UKpALaLA0-_dliuJ3jaJYsqOxwE1&wa=wsignin1.0)
 
 
