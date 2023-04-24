@@ -12,17 +12,17 @@
 ### Redes sociais
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-<br>
+<br><br>
 YcaroBR2803#2754
-<br>
+<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro_cochillo/)
-<br>
+<br><br>
 Icaro_Cochillo
-<br>
+<br><br>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3155gxrphdkfei3brqq4cywyahme)
-<br>
+<br><br>
 YcaroBR2803
-<br>
+<br><br>
 
 ### Contato profissional
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQnppCMTRGpMCcvztqXqMLNlXZsdCTVPGNjfzfnnmSxXHpddBLhdZStwWVdKhPnFhmCwhL)
