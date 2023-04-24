@@ -17,7 +17,11 @@ YcaroBR2803#2754
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icaro_cochillo/)
 <br>
+Icaro_Cochillo
+<br>
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/3155gxrphdkfei3brqq4cywyahme)
+<br>
+YcaroBR2803
 <br>
 
 ### Contato profissional
